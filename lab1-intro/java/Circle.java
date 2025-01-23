@@ -1,6 +1,7 @@
 class Circle {
 //yeet
   //RedwanAsrar_230367027
+  //random words made in gitpod
   public static void main(String[] args) {
     int size = 15; // Integer.parseInt(args[0]);
     Circle c = new Circle(size);
